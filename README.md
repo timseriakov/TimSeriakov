@@ -8,5 +8,5 @@ Here are some info about me:
 - 💻 I use [React](https://reactjs.org/), [Redux](https://redux.js.org/), [NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [Jest](https://jestjs.io/), [PUG](https://pugjs.org/)/[Sass](https://sass-lang.com/)
 - 🧁 Interested in [JAMStack](https://jamstack.org/), [GraphQL](https://graphql.org/) and [Supabase](https://supabase.io/)
 - ❤ Also I'm in love with [TailwindCSS](https://tailwindcss.com/) 💚, [Netlify](https://www.netlify.com/) 💙 and [Vercel](https://vercel.com/) 🖤
-- 💪 I like to run and workout with kettlebells
+- 💪 I like to wakeboarding and workout with kettlebells
 - 📫 How to reach me: [write me email](mailto:t.seryakov@mail.com)
