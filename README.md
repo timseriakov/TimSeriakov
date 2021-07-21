@@ -4,7 +4,7 @@
 
 Here are some info about me:
 
-- 🔭 I’m currently working as frontend developer at [lifetech (Turkcell group)](https://lifetech.by/)
+- 🔭 I’m currently working as frontend developer at [lifetech (Turkcell Group)](https://lifetech.by/)
 - 🎓 I'm grateful to the guys from [IT-Incubator](https://it-incubator.by) for education
 - 💻 I use [React](https://reactjs.org/), [Redux](https://redux.js.org/), [TypeScript](https://www.typescriptlang.org/), [Jest](https://jestjs.io/), [PUG](https://pugjs.org/)/[Sass](https://sass-lang.com/)
 - 🧁 Interested in [NextJS](https://nextjs.org/), [GatsbyJS](https://www.gatsbyjs.com/), [JAMStack](https://jamstack.org/), [GraphQL](https://graphql.org/), [TDD](https://en.wikipedia.org/wiki/Test-driven_development)
