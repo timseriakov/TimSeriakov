@@ -9,4 +9,4 @@ Here are some info about me:
 - 🧁 Interested in [JAMStack](https://jamstack.org/), [GraphQL](https://graphql.org/) and [Supabase](https://supabase.io/)
 - ❤ Also I'm in love with [TailwindCSS](https://tailwindcss.com/) 💚, [Netlify](https://www.netlify.com/) 💙 and [Vercel](https://vercel.com/) 🖤
 - 💪 I like to wakeboarding and workout with kettlebells
-- 📫 How to reach me: [write me email](mailto:t.seryakov@mail.com)
+- 📫 How to reach me: [write me email](mailto:timofei@seriakov.pro)
