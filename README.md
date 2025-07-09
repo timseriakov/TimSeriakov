@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Timofei Seryakov</h1>
+<h1 align="center">Hi, I’m Timofei Seriakov</h1>
 <p align="center">
   <strong>Solution Architect & Full-Stack Developer</strong><br>
   Passionate about clean architecture, DDD, and Developer Experience
