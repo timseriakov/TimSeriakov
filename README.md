@@ -16,7 +16,7 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
 Helping teams turn complex business domains into structured, scalable, and understandable systems — guided by principles like Domain-Driven Design, where the domain model shapes the architecture, and Value-Driven Development, where outcomes matter more than outputs.
 Deeply focused on sound abstractions, how teams interact with code, and the power of internal tooling.
@@ -29,7 +29,7 @@ Tools should move fast, feel right, and never get in the way.
 
 Documentation is treated as a first-class part of the product: automated, living, and genuinely helpful.
 
-## 🛠️ What I've Done
+## What I've Done
 
 Built major products for mobile operator **life:)**:
 - B2B client portal
@@ -39,18 +39,18 @@ Built major products for mobile operator **life:)**:
 Roles: architect, tech lead, system designer.  
 Also worked on hiring, CI/CD, infrastructure, deployment, and integrations.
 
-## 💡 Principles I Follow
+## Principles I Follow
 
 - Agile as a mindset: iterative, collaborative, value-focused
 - Documentation and tooling are part of the product
 - Explicit boundaries, transparent contracts, and safe change
 
-## 🧱 How I Design Systems
+## How I Design Systems
 
 I build systems to be **clear, maintainable, and resilient** — not just today, but a year from now.  
 Whether CRM, CMS, or internal tools — they should evolve with confidence, not break at the first change.
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
