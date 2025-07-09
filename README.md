@@ -18,16 +18,16 @@
 
 ## 👨‍💻 About Me
 
-I help teams turn complex business domains into structured, scalable, and understandable systems — guided by **DDD**, **VDD**, and the principle of _“value first, technology second.”_  
-I care deeply about sound abstractions, the way teams interact with code, and strong internal tools.
+Helping teams turn complex business domains into structured, scalable, and understandable systems — guided by DDD, VDD, and the principle of “value first, technology second.”
+Deeply focused on sound abstractions, team-code interaction, and strong internal tooling.
 
-I work at the intersection of architecture, UX, and automation:  
+Working at the intersection of architecture, UX, and automation:
 designing APIs, building thoughtful UIs, creating CLI tools, and improving Developer Experience.
 
-The terminal and keyboard are my primary interfaces — I’m a CLI and keyboard ninja.  
-I build tools that move fast, feel right, and don’t get in the way.
+The terminal and keyboard are primary interfaces — a CLI-first, keyboard-driven mindset.
+Tools should move fast, feel right, and never get in the way.
 
-I treat documentation as a first-class part of the product: **automated**, **living**, and **genuinely helpful**.
+Documentation is treated as a first-class part of the product: automated, living, and genuinely helpful.
 
 ## 🛠️ What I've Done
 
