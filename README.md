@@ -18,8 +18,8 @@
 
 ## 👨‍💻 About Me
 
-Helping teams turn complex business domains into structured, scalable, and understandable systems — guided by DDD, VDD, and the principle of “value first, technology second.”
-Deeply focused on sound abstractions, team-code interaction, and strong internal tooling.
+Helping teams turn complex business domains into structured, scalable, and understandable systems — guided by principles like Domain-Driven Design, where the domain model shapes the architecture, and Value-Driven Development, where outcomes matter more than outputs.
+Deeply focused on sound abstractions, how teams interact with code, and the power of internal tooling.
 
 Working at the intersection of architecture, UX, and automation:
 designing APIs, building thoughtful UIs, creating CLI tools, and improving Developer Experience.
