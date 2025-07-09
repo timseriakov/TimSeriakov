@@ -55,12 +55,14 @@ Whether CRM, CMS, or internal tools — they should evolve with confidence, not 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000?style=flat-square&logo=bun&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-222222?style=flat-square&logo=lightning&logoColor=FFEA00)
+![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-![Payload CMS](https://img.shields.io/badge/Payload%20CMS-black?style=flat-square)
+![Payload CMS](https://img.shields.io/badge/Payload%20CMS-000000?style=flat-square&logo=payloadcms&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
@@ -72,5 +74,7 @@ Whether CRM, CMS, or internal tools — they should evolve with confidence, not 
 
 ![Fish Shell](https://img.shields.io/badge/Fish_Shell-4f5d95?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
+![Kitty](https://img.shields.io/badge/Kitty-Terminal-7F52FF?style=flat-square)
+![Raycast](https://img.shields.io/badge/Raycast-000000?style=flat-square&logo=raycast&logoColor=white)
 
 Pinned projects include custom keyboards I enjoy using in the terminal every day.
