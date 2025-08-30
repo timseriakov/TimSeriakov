@@ -36,7 +36,7 @@ Built major products for mobile operator **life:)**:
 - Support chatbot dialogue builder
 - Internal CRM systems
 
-Roles: architect, tech lead, system designer.  
+Roles: architect, tech lead, system designer.
 Also worked on hiring, CI/CD, infrastructure, deployment, and integrations.
 
 ## Principles I Follow
@@ -47,7 +47,7 @@ Also worked on hiring, CI/CD, infrastructure, deployment, and integrations.
 
 ## How I Design Systems
 
-I build systems to be **clear, maintainable, and resilient** — not just today, but a year from now.  
+I build systems to be **clear, maintainable, and resilient** — not just today, but a year from now.
 Whether CRM, CMS, or internal tools — they should evolve with confidence, not break at the first change.
 
 ## Tech Stack
@@ -72,13 +72,14 @@ Whether CRM, CMS, or internal tools — they should evolve with confidence, not 
 ![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
+![Kitty](https://img.shields.io/badge/Kitty-Terminal-7F52FF?style=flat-square)
 ![Fish Shell](https://img.shields.io/badge/Fish_Shell-4f5d95?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-![Kitty](https://img.shields.io/badge/Kitty-Terminal-7F52FF?style=flat-square)
-![Raycast](https://img.shields.io/badge/Raycast-000000?style=flat-square&logo=raycast&logoColor=white)
 
 ![Neovim](https://img.shields.io/badge/Neovim-2F6E3C?style=flat-square&logo=neovim&logoColor=white)
 ![Neovide](https://img.shields.io/badge/Neovide-2E7D32?style=flat-square&logo=rust&logoColor=white)
 ![Qutebrowser](https://img.shields.io/badge/Qutebrowser-4D9AD9?style=flat-square&logo=qt&logoColor=white)
+
+![Raycast](https://img.shields.io/badge/Raycast-000000?style=flat-square&logo=raycast&logoColor=white)
 
 Pinned projects include custom keyboards I enjoy using in the terminal every day.
