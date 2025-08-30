@@ -77,8 +77,8 @@ Whether CRM, CMS, or internal tools — they should evolve with confidence, not 
 ![Kitty](https://img.shields.io/badge/Kitty-Terminal-7F52FF?style=flat-square)
 ![Raycast](https://img.shields.io/badge/Raycast-000000?style=flat-square&logo=raycast&logoColor=white)
 
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Neovide](https://img.shields.io/badge/Neovide-4CAF50?style=flat-square&logo=rust&logoColor=white)
-![Qutebrowser](https://img.shields.io/badge/Qutebrowser-6AAFE6?style=flat-square&logo=qutebrowser&logoColor=0B3C78)
+![Neovim](https://img.shields.io/badge/Neovim-2F6E3C?style=flat-square&logo=neovim&logoColor=white)
+![Neovide](https://img.shields.io/badge/Neovide-2E7D32?style=flat-square&logo=rust&logoColor=white)
+![Qutebrowser](https://img.shields.io/badge/Qutebrowser-4D9AD9?style=flat-square&logo=qt&logoColor=white)
 
 Pinned projects include custom keyboards I enjoy using in the terminal every day.
