@@ -82,4 +82,4 @@ Whether CRM, CMS, or internal tools — they should evolve with confidence, not 
 
 ![Raycast](https://img.shields.io/badge/Raycast-000000?style=flat-square&logo=raycast&logoColor=white)
 
-Pinned projects include custom keyboards I enjoy using in the terminal every day.
+Pinned projects include custom keyboards I enjoy using every day.
