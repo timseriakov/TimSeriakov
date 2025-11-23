@@ -57,7 +57,7 @@ Handled CI/CD, deployments, infrastructure, and integrations.
 ![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-![Kitty](https://img.shields.io/badge/Kitty-Terminal-7F52FF?style=flat-square)
+![Kitty](https://img.shields.io/badge/Kitty-Terminal-7F52FF?style=flat-square&logo=gnometerminal&logoColor=white)
 ![Fish Shell](https://img.shields.io/badge/Fish_Shell-4f5d95?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 
