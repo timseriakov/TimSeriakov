@@ -20,7 +20,6 @@
 
 I help teams turn complex domains into simple, scalable systems — guided by DDD, clear boundaries, and a strong focus on Developer Experience. I work where architecture, UX, and automation meet: designing APIs, building internal tools, and shaping developer workflows.
 
-The terminal and keyboard are my primary interfaces — a CLI-first, keyboard-driven mindset.  
 A bit of a keyboard freak, a bit of a terminal monk.  
 Tools should move fast, feel right, and never get in the way.
 
