@@ -33,12 +33,6 @@ Delivered and evolved key systems for mobile operator **life:)** — including a
 Worked as architect, tech lead, and system designer across teams and services.  
 Handled CI/CD, deployments, infrastructure, and integrations.
 
-## Principles I Follow
-
-- Documentation and tooling are part of the product  
-- Clear boundaries and explicit contracts  
-- Safe change: migrations, feature flags, observability  
-
 ## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
