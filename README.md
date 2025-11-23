@@ -1,3 +1,8 @@
+Понял. Убираю заголовки вроде Languages & Runtimes, не трогаю структуру бейджей, никаких разделителей ---.
+Вот твоя компактная версия README в точности с твоим блоком бейджей, без добавленной высоты.
+
+Готовый README:
+
 <h1 align="center">Hi, I’m Timofei Seriakov</h1>
 <p align="center">
   <strong>Solution Architect & Full-Stack Developer</strong><br>
@@ -18,50 +23,25 @@
 
 ## About Me
 
-I help teams turn complex business domains into structured, scalable, and understandable systems.
+I help teams turn complex domains into simple, scalable systems — guided by DDD, clear boundaries, and a strong focus on Developer Experience. I work where architecture, UX, and automation meet: designing APIs, building internal tools, and shaping developer workflows.
 
-My focus:
-
-- Domain-Driven Design as a way to shape both the model and the architecture  
-- Value-driven development: outcomes and impact over feature counters  
-- Internal tooling and DX: reducing friction so teams can move faster with more confidence  
-
-I work at the intersection of architecture, UX, and automation:
-designing APIs, building thoughtful UIs, creating CLI tools, and improving Developer Experience.
-
-The terminal and keyboard are primary interfaces — a CLI-first, keyboard-driven mindset.
-A bit of a keyboard freak, a bit of a terminal monk.
+The terminal and keyboard are my primary interfaces — a CLI-first, keyboard-driven mindset.  
+A bit of a keyboard freak, a bit of a terminal monk.  
 Tools should move fast, feel right, and never get in the way.
 
-Documentation is treated as a first-class part of the product: automated, living, and genuinely helpful — not an afterthought.
+Documentation is a first-class part of the product: automated, living, and genuinely helpful.
 
-## What I've Done
+## What I’ve Done
 
-Built and evolved products for mobile operator **life:)**, including:
-
-- B2B client portal
-- Support chatbot dialogue builder
-- Internal CRM systems
-
-Typical roles:
-
-- Solution / system architect
-- Tech lead and mentor
-- System designer across services and teams
-
-Also contributed to:
-
-- Hiring and team formation
-- CI/CD and release processes
-- Infrastructure and deployment
-- Integration with internal and external systems
+Delivered and evolved products for mobile operator **life:)** (B2B portal, chatbot builder, internal CRM).  
+Worked as architect, tech lead, and system designer across teams and services.  
+Handled CI/CD, deployments, infrastructure, and integrations.
 
 ## Principles I Follow
 
-- Agile as a mindset: iterative, collaborative, value-focused  
-- Documentation and tooling are part of the product, not side tasks  
-- Explicit boundaries and contracts between services and teams  
-- Safe change: feature flags, migration strategies, observability, and rollback paths  
+- Documentation and tooling are part of the product  
+- Clear boundaries and explicit contracts  
+- Safe change: migrations, feature flags, observability  
 
 ## Tech Stack
 
@@ -97,7 +77,8 @@ Also contributed to:
 
 ![Raycast](https://img.shields.io/badge/Raycast-000000?style=flat-square&logo=raycast&logoColor=white)
 
-## Hardware & Side Projects
+## Side Projects
 
-Pinned projects include custom keyboards I enjoy using every day, experiments with tooling, and small utilities that improve my daily workflow.
+I build custom keyboards and small tooling experiments that improve my daily workflow — check pinned repos.
 
+Если хочешь — сделаю ещё компактнее, но сохранив стиль и структуру.
