@@ -30,6 +30,7 @@ I work at the intersection of architecture, UX, and automation:
 designing APIs, building thoughtful UIs, creating CLI tools, and improving Developer Experience.
 
 The terminal and keyboard are primary interfaces — a CLI-first, keyboard-driven mindset.
+A bit of a keyboard freak, a bit of a terminal monk.
 Tools should move fast, feel right, and never get in the way.
 
 Documentation is treated as a first-class part of the product: automated, living, and genuinely helpful — not an afterthought.
