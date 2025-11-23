@@ -97,8 +97,6 @@ Also contributed to:
 
 ![Raycast](https://img.shields.io/badge/Raycast-000000?style=flat-square&logo=raycast&logoColor=white)
 
----
-
 ## Hardware & Side Projects
 
 Pinned projects include custom keyboards I enjoy using every day, experiments with tooling, and small utilities that improve my daily workflow.
