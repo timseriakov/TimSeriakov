@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Timofei Seriakov</h1>
 <p align="center">
   <strong>Solution Architect & Full-Stack Developer</strong><br>
-  Passionate about clean architecture, DDD, and Developer Experience
+  Designing pragmatic systems with DDD, clean architecture, and strong Developer Experience
 </p>
 
 <p align="center">
@@ -18,44 +18,68 @@
 
 ## About Me
 
-Helping teams turn complex business domains into structured, scalable, and understandable systems — guided by principles like Domain-Driven Design, where the domain model shapes the architecture, and Value-Driven Development, where outcomes matter more than outputs.
-Deeply focused on sound abstractions, how teams interact with code, and the power of internal tooling.
+I help teams turn complex business domains into structured, scalable, and understandable systems.
 
-Working at the intersection of architecture, UX, and automation:
+My focus:
+
+- Domain-Driven Design as a way to shape both the model and the architecture  
+- Value-driven development: outcomes and impact over feature counters  
+- Internal tooling and DX: reducing friction so teams can move faster with more confidence  
+
+I work at the intersection of architecture, UX, and automation:
 designing APIs, building thoughtful UIs, creating CLI tools, and improving Developer Experience.
 
 The terminal and keyboard are primary interfaces — a CLI-first, keyboard-driven mindset.
 Tools should move fast, feel right, and never get in the way.
 
-Documentation is treated as a first-class part of the product: automated, living, and genuinely helpful.
+Documentation is treated as a first-class part of the product: automated, living, and genuinely helpful — not an afterthought.
 
 ## What I've Done
 
-Built major products for mobile operator **life:)**:
+Built and evolved products for mobile operator **life:)**, including:
+
 - B2B client portal
 - Support chatbot dialogue builder
 - Internal CRM systems
 
-Roles: architect, tech lead, system designer.
-Also worked on hiring, CI/CD, infrastructure, deployment, and integrations.
+Typical roles:
+
+- Solution / system architect
+- Tech lead and mentor
+- System designer across services and teams
+
+Also contributed to:
+
+- Hiring and team formation
+- CI/CD and release processes
+- Infrastructure and deployment
+- Integration with internal and external systems
 
 ## Principles I Follow
 
-- Agile as a mindset: iterative, collaborative, value-focused
-- Documentation and tooling are part of the product
-- Explicit boundaries, transparent contracts, and safe change
+- Agile as a mindset: iterative, collaborative, value-focused  
+- Documentation and tooling are part of the product, not side tasks  
+- Explicit boundaries and contracts between services and teams  
+- Safe change: feature flags, migration strategies, observability, and rollback paths  
 
 ## Tech Stack
+
+**Languages & runtimes**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000?style=flat-square&logo=bun&logoColor=white)
+
+**Frontend & UI**
+
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend, data & messaging**
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-222222?style=flat-square&logo=lightning&logoColor=FFEA00)
@@ -65,9 +89,13 @@ Also worked on hiring, CI/CD, infrastructure, deployment, and integrations.
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+**DevOps & mono-repos**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**Developer Experience & tools**
 
 ![Kitty](https://img.shields.io/badge/Kitty-Terminal-7F52FF?style=flat-square)
 ![Fish Shell](https://img.shields.io/badge/Fish_Shell-4f5d95?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -79,4 +107,10 @@ Also worked on hiring, CI/CD, infrastructure, deployment, and integrations.
 
 ![Raycast](https://img.shields.io/badge/Raycast-000000?style=flat-square&logo=raycast&logoColor=white)
 
-Pinned projects include custom keyboards I enjoy using every day.
+---
+
+## Hardware & Side Projects
+
+Pinned projects include custom keyboards I enjoy using every day, experiments with tooling, and small utilities that improve my daily workflow.
+
+If you’re interested in architecture, DX, or building tools for developers, feel free to reach out.
