@@ -45,10 +45,7 @@ Also worked on hiring, CI/CD, infrastructure, deployment, and integrations.
 - Documentation and tooling are part of the product
 - Explicit boundaries, transparent contracts, and safe change
 
-## How I Design Systems
-
-I build systems to be **clear, maintainable, and resilient** — not just today, but a year from now.
-Whether CRM, CMS, or internal tools — they should evolve with confidence, not break at the first change.
+---
 
 ## Tech Stack
 
