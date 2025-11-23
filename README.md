@@ -1,8 +1,3 @@
-Понял. Убираю заголовки вроде Languages & Runtimes, не трогаю структуру бейджей, никаких разделителей ---.
-Вот твоя компактная версия README в точности с твоим блоком бейджей, без добавленной высоты.
-
-Готовый README:
-
 <h1 align="center">Hi, I’m Timofei Seriakov</h1>
 <p align="center">
   <strong>Solution Architect & Full-Stack Developer</strong><br>
