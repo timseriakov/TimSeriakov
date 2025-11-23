@@ -28,7 +28,8 @@ Documentation is a first-class part of the product: automated, living, and genui
 
 ## What I’ve Done
 
-Delivered and evolved products for mobile operator **life:)** (B2B portal, chatbot builder, internal CRM).  
+Delivered and evolved key systems for mobile operator **life:)** — including a self-service B2B portal for corporate clients, a visual chatbot scenario builder (similar to n8n) for support workflows, and a unified CRM used by all sales partners.
+
 Worked as architect, tech lead, and system designer across teams and services.  
 Handled CI/CD, deployments, infrastructure, and integrations.
 
@@ -75,5 +76,3 @@ Handled CI/CD, deployments, infrastructure, and integrations.
 ## Side Projects
 
 I build custom keyboards and small tooling experiments that improve my daily workflow — check pinned repos.
-
-Если хочешь — сделаю ещё компактнее, но сохранив стиль и структуру.
