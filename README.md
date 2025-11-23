@@ -45,8 +45,6 @@ Also worked on hiring, CI/CD, infrastructure, deployment, and integrations.
 - Documentation and tooling are part of the product
 - Explicit boundaries, transparent contracts, and safe change
 
----
-
 ## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
