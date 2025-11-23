@@ -65,22 +65,15 @@ Also contributed to:
 
 ## Tech Stack
 
-**Languages & runtimes**
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000?style=flat-square&logo=bun&logoColor=white)
-
-**Frontend & UI**
-
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend, data & messaging**
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-222222?style=flat-square&logo=lightning&logoColor=FFEA00)
@@ -90,13 +83,9 @@ Also contributed to:
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**DevOps & mono-repos**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-**Developer Experience & tools**
 
 ![Kitty](https://img.shields.io/badge/Kitty-Terminal-7F52FF?style=flat-square)
 ![Fish Shell](https://img.shields.io/badge/Fish_Shell-4f5d95?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -114,4 +103,3 @@ Also contributed to:
 
 Pinned projects include custom keyboards I enjoy using every day, experiments with tooling, and small utilities that improve my daily workflow.
 
-If you’re interested in architecture, DX, or building tools for developers, feel free to reach out.
