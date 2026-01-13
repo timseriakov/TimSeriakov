@@ -62,7 +62,6 @@ Handled CI/CD, deployments, infrastructure, and integrations.
 ![Neovim](https://img.shields.io/badge/Neovim-2F6E3C?style=flat-square&logo=neovim&logoColor=white)
 ![Neovide](https://img.shields.io/badge/Neovide-2E7D32?style=flat-square&logo=rust&logoColor=white)
 ![Qutebrowser](https://img.shields.io/badge/Qutebrowser-4D9AD9?style=flat-square&logo=qt&logoColor=white)
-
 ![Raycast](https://img.shields.io/badge/Raycast-000000?style=flat-square&logo=raycast&logoColor=white)
 
 ## Side Projects
