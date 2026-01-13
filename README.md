@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Timofei Seriakov</h1>
 <p align="center">
-  <strong>Solution Architect & Full-Stack Developer</strong><br>
+  <strong>Full-Stack Developer focused on building well-architected systems</strong><br>
   Designing pragmatic systems with DDD, clean architecture, and strong Developer Experience
 </p>
 
