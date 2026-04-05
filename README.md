@@ -62,6 +62,8 @@ Handled CI/CD, deployments, infrastructure, and integrations.
 ![Qutebrowser](https://img.shields.io/badge/Qutebrowser-4D9AD9?style=flat-square&logo=qt&logoColor=white)
 ![Raycast](https://img.shields.io/badge/Raycast-000000?style=flat-square&logo=raycast&logoColor=white)
 
+[![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=31869&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://github-readme-stats.hackclub.dev/api/wakatime?username=31869&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs
+
 ## Side Projects
 
 I build custom keyboards and small tooling experiments that improve my daily workflow — check pinned repos.
