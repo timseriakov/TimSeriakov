@@ -8,7 +8,7 @@
   <a href="https://github.com/TimSeriakov" style="text-decoration: none;">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/TimSeriakov?label=GitHub&style=flat-square&logo=github">
   </a>
-  <a href="https://linkedin.com/in/timofei-seriakov" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/TimSeriakov" style="text-decoration: none;">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="mailto:t.seriakov@gmail.com" style="text-decoration: none;">
