@@ -32,6 +32,10 @@ Delivered and evolved key systems for mobile operator **life:)** — including a
 Worked as architect, tech lead, and system designer across teams and services.  
 Handled CI/CD, deployments, infrastructure, and integrations.
 
+## Side Projects
+
+I build custom keyboards and small tooling experiments that improve my daily workflow — check pinned repos.
+
 ## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
@@ -66,6 +70,3 @@ Handled CI/CD, deployments, infrastructure, and integrations.
 
 [![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=31869&api_domain=hackatime.hackclub.com&theme=nord&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://hackatime.hackclub.com/@timofei_seriakov)
 
-## Side Projects
-
-I build custom keyboards and small tooling experiments that improve my daily workflow — check pinned repos.
