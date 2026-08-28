@@ -16,6 +16,8 @@
   </a>
 </p>
 
+CTO at [Urban Prime](https://urbanprime.ge) — leading the technical infrastructure and development of the web product and CRM.
+
 ## About Me
 
 I help teams turn complex domains into simple, scalable systems — guided by DDD, clear boundaries, and a strong focus on Developer Experience. I work where architecture, UX, and automation meet: designing APIs, building internal tools, and shaping developer workflows.
